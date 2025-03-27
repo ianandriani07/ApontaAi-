@@ -12,12 +12,12 @@ O objetivo é criar uma aplicação que gere valor real, com funcionalidades int
 ## 📊 Funcionalidades Planejadas
 
 ### MVP (Mínimo Produto Viável)
-- [] Autenticação de usuários (login/cadastro)
-- [] Registro de apontamento de horas (data, hora início/fim, descrição)
-- [] Dashboard com:
+- [ ] Autenticação de usuários (login/cadastro)
+- [ ] Registro de apontamento de horas (data, hora início/fim, descrição)
+- [ ] Dashboard com:
   - Total de horas por dia/semana/mês
-- [] Gráficos básicos de produtividade
-- [] Stack: Spring Boot + React + PostgreSQL
+- [ ] Gráficos básicos de produtividade
+- [ ] Stack: Spring Boot + React + PostgreSQL
 
 ### Versão 2 - Funcionalidades Inteligentes
 - [ ] Cálculo de banco de horas / horas extras
