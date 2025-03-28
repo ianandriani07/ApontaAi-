@@ -55,6 +55,7 @@ O objetivo é criar uma aplicação que gere valor real, com funcionalidades int
 ## 🚧 Em desenvolvimento...
 Este projeto está sendo construído em módulos. Fique livre para abrir issues, sugerir melhorias ou acompanhar o progresso!
 
+👉 Acompanhe as tarefas em andamento no [quadro do GitHub Projects](https://github.com/users/ianandriani07/projects/1)
 ---
 
 ## 💼 Licença
