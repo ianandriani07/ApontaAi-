@@ -1,0 +1,86 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# Compilados Java
+*.class
+
+# Diretório de build do Maven
+/target/
+
+# Diretório de build do Gradle
+/build/
+
+# Arquivos de log
+*.log
+
+# Configs de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDEs
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Arquivos de ambiente local
+.env
+*.env
+*.local
+
+# Configs do VSCode
+.vscode/
+
+# Arquivos gerados por testes
+/test-output/
+*.coverage
+*.exec
+
+# Cache do GraphQL (por exemplo do Apollo Codegen, se usado)
+.graphqlconfig
+__generated__/
+
+# Dependências externas (caso esteja usando wrapper do Gradle)
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Outros
+*.swp
+*.swo

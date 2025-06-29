@@ -1,0 +1,15 @@
+input CadastroUsuarioDTO  { nome: String!, email: String!, senha: String! }
+input LoginDTO     { email: String!, senha: String! }
+
+type UsuarioDTO { id: ID!, nome: String!, email: String! }
+
+type AuthPayload { token: String!, usuario: UsuarioDTO! }
+
+type Mutation {
+  cadastrarUsuario(cadastro: CadastroUsuarioDTO!): UsuarioDTO!
+  login(input: LoginDTO!): AuthPayload!
+}
+
+type Query {
+  me: UsuarioDTO!
+}
