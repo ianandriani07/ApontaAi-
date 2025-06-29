@@ -12,7 +12,7 @@ O objetivo é criar uma aplicação que gere valor real, com funcionalidades int
 ## 📊 Funcionalidades Planejadas
 
 ### MVP (Mínimo Produto Viável)
-- [ ] Autenticação de usuários (login/cadastro)
+- [x] Autenticação de usuários (login/cadastro)
 - [ ] Registro de apontamento de horas (data, hora início/fim, descrição)
 - [ ] Dashboard com:
   - Total de horas por dia/semana/mês
